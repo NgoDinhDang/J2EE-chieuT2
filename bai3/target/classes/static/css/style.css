@@ -1,0 +1,73 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(135deg, #ffe4ec, #fff);
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background: #fff;
+    max-width: 1000px;
+    margin: 40px auto;
+    padding: 25px;
+    border-radius: 14px;
+    box-shadow: 0 10px 30px rgba(255, 77, 109, 0.25);
+}
+
+h1 {
+    color: #e6396b;
+    border-left: 6px solid #ff4d6d;
+    padding-left: 12px;
+    margin-bottom: 20px;
+}
+
+.btn-add {
+    background: linear-gradient(135deg, #ff4d6d, #ff758f);
+    color: white;
+    padding: 10px 18px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.btn-add:hover {
+    opacity: 0.9;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table th {
+    background: #ffe4ec;
+    color: #c9184a;
+    padding: 12px;
+}
+
+table td {
+    padding: 12px;
+    border-bottom: 1px solid #f1c0cc;
+}
+
+tr:hover {
+    background-color: #fff0f5;
+}
+
+.btn-edit {
+    background: #ff85a1;
+    color: white;
+    padding: 6px 12px;
+    border-radius: 6px;
+    text-decoration: none;
+    margin-right: 6px;
+}
+
+.btn-delete {
+    background: #e63946;
+    color: white;
+    padding: 6px 12px;
+    border-radius: 6px;
+    text-decoration: none;
+}
