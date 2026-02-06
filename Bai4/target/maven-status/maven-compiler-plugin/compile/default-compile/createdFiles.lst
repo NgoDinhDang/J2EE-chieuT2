@@ -1,0 +1,8 @@
+com\example\Bai2\Bai2Application.class
+com\example\Bai2\service\BookService.class
+com\example\Bai2\repository\BookRepository.class
+com\example\Bai2\config\WebConfig.class
+com\example\Bai2\Controller\HomeController.class
+com\example\Bai2\Model\Category.class
+com\example\Bai2\Controller\BookController.class
+com\example\Bai2\Model\Book.class
